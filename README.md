@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💰 MiPropina — Gestión de Propinas
 
-## Getting Started
+Aplicación web diseñada para **registrar, organizar y analizar propinas** de forma simple, clara y escalable.
 
-First, run the development server:
+Pensada para cualquier persona que reciba propinas en su trabajo y quiera tener control total de sus ingresos diarios.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔗 proximamente...
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📌 Descripción
 
-To learn more about Next.js, take a look at the following resources:
+MiPropina permite llevar un registro detallado de las propinas generadas en el día a día, ofreciendo métricas útiles para entender hábitos financieros y mejorar la organización personal.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+El sistema está diseñado como un **MVP escalable a SaaS**, con foco en simplicidad de uso y visualización clara de datos.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎯 Objetivo del proyecto
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Centralizar el registro de propinas
+- Facilitar el análisis de ingresos
+- Proveer métricas simples pero útiles
+- Sentar las bases de un producto SaaS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ✨ Funcionalidades principales
+
+- 📅 Registro de propinas diarias
+- 💰 Cálculo automático de totales
+- 📊 Dashboard con métricas clave
+- 🗓️ Resumen semanal y mensual
+- ✏️ Edición y eliminación de registros
+- 🕒 Registro opcional de turnos
+- 💳 Métodos de pago (efectivo / tarjeta / mixto)
+
+---
+
+## 🧠 Funcionalidades en detalle
+
+### 📥 Registro de propinas
+- Fecha
+- Monto
+- Método de pago
+- Turno (opcional)
+
+### 📊 Dashboard
+- Total diario
+- Total semanal
+- Total mensual
+- Promedio por día
+
+### ⚙️ Gestión
+- Editar registros
+- Eliminar propinas
+- Modificar datos ingresados
+
+---
+
+## 🏗️ Stack tecnológico
+
+**Frontend**
+- React / Next.js
+- TailwindCSS
+
+**Backend**
+- Node.js
+
+**Base de datos**
+- PostgreSQL / Supabase
+
+**Deploy**
+- Vercel
+
+---
+
+## 📸 Screenshots
+
+- Dashboard
+- Registro de propinas
+- Vista mensual
+
+---
+
+## 👨‍💻 Autor
+
+### Tomás Rivetta
+
+- 🔗 Portfolio: https://totoridev.netlify.app/
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/tomasrivetta-fullstack/
+
+- 🔗 GitHub: https://github.com/TomasRivetta
+
+---
