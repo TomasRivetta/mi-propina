@@ -6,12 +6,6 @@ Pensada para cualquier persona que reciba propinas en su trabajo y quiera tener 
 
 ---
 
-## 🚀 Demo
-
-🔗 proximamente...
-
----
-
 ## 📌 Descripción
 
 MiPropina permite llevar un registro detallado de las propinas generadas en el día a día, ofreciendo métricas útiles para entender hábitos financieros y mejorar la organización personal.
